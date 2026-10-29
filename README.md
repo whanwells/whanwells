@@ -6,4 +6,4 @@ I'm a Software Engineer with 5+ years of modern software engineering experience 
 - 💻 **Core Stack:** TypeScript, JavaScript, Node.js, SQL, Python, Go, Bun, Docker, and Vue/Nuxt.
 - 💬 **Topics I care about:** Deterministic integration testing (WireMock, Testcontainers), clean API design, CI/CD automation, and practical agentic and AI-assisted engineering workflows.
 - 🔒 **Where my code lives:** Most of my production work from the past several years lives in private corporate repositories, so my public pins here are a mix of small side projects and open-source tools from earlier roles.
-- 📫 **How to reach me:** [linkedin.com/in/whanwells](https://www.linkedin.com/in/whanwells) or[whanwells@gmail.com](mailto:whanwells@gmail.com)
+- 📫 **How to reach me:** [linkedin.com/in/whanwells](https://www.linkedin.com/in/whanwells) or [whanwells@gmail.com](mailto:whanwells@gmail.com)
